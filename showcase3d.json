@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "slug": "test-zip-1785173878035-3ae215",
+  "ownerId": "3ae2158d-095c-45e0-a2ce-9527d7c86574",
+  "productName": "Test ZIP 1785173878035",
+  "whatsapp": null,
+  "style": "apple",
+  "createdAt": "2026-07-27T17:37:58.055Z",
+  "updatedAt": "2026-07-27T17:38:21.998Z",
+  "steps": {
+    "analyze": {
+      "status": "done",
+      "at": "2026-07-27T17:37:58.069Z",
+      "durationMs": 2
+    },
+    "logo": {
+      "status": "done",
+      "at": "2026-07-27T17:37:58.074Z",
+      "durationMs": 2
+    },
+    "exploded": {
+      "status": "done",
+      "at": "2026-07-27T17:37:58.079Z",
+      "durationMs": 1
+    },
+    "video": {
+      "status": "done",
+      "at": "2026-07-27T17:38:02.489Z",
+      "durationMs": 4408
+    },
+    "frames": {
+      "status": "done",
+      "at": "2026-07-27T17:38:21.692Z",
+      "durationMs": 19201
+    },
+    "palette": {
+      "status": "done",
+      "at": "2026-07-27T17:38:21.730Z",
+      "durationMs": 36
+    },
+    "build": {
+      "status": "done",
+      "at": "2026-07-27T17:38:21.915Z",
+      "durationMs": 182
+    },
+    "deploy": {
+      "status": "done",
+      "at": "2026-07-27T17:38:21.998Z",
+      "durationMs": 80
+    }
+  },
+  "analysis": null,
+  "palette": {
+    "accent": "#eaab74",
+    "bg": "#0a0a0f",
+    "text": "#f5f5f7",
+    "raw": {
+      "byFrequency": [
+        "#a95e2c",
+        "#c37742",
+        "#b96833",
+        "#be6e39",
+        "#94572e"
+      ],
+      "bySaturation": [
+        "#eaab74",
+        "#e1a46f",
+        "#dd9f6a",
+        "#8a4a22",
+        "#a95e2c"
+      ]
+    },
+    "contrastTextBg": 18.14
+  },
+  "deploy": null,
+  "github": null,
+  "costEstimateUsd": 0
+}
